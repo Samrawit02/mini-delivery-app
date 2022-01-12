@@ -8,25 +8,32 @@ This repository has a sample mini delivery app developed using spring framework 
 ### Registration Page
 
 <img src="ScreenShots/registrationPage.JPG" >
+
 ### Loging Page
-<img src="/Screenshots/logingPage.JPG">
+
+<img src="/ScreenShots/loginPage.JPG">
+
 ### User Dashboard
-<img src="/Screenshots/userDashboardPage.JPG">
+<img src="/ScreenShots/userDashboardPage.JPG">
+
 ### Item Order Page
 <img src="/ScreenShots/ItemOrderPage.JPG">
+
 ### PickUP Information
-<img src="/ScreenShots/pickupInforamationPage.JPG">
+<img src="/ScreenShots/pickupInforamtionPage.JPG">
+
 ### Destination Information Page
 <img src ="/ScreenShots/destinationInformationPage.JPG">
+
 ### Order Confirmation Page
-<img src="/ScreenShots/orderConfirmationPage">
+<img src="/ScreenShots/orderConfirmationPage.JPG">
 
 
-## Tech Stack
+## Technologies
 
-**Client:** Thymeleaf
-
-**Server:** Spring framework Spring Boot
+- Thymeleaf
+- Spring framework Spring Boot
+- [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 
 ## Development Environment 
