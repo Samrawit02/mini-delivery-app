@@ -6,7 +6,8 @@ This repository has a sample mini delivery app developed using spring framework 
 
 ## Screenshots
 ### Registration Page
-<img src="/Screenshots/registrationPage.JPG" >
+
+<img src="ScreenShots/registrationPage.JPG" >
 ### Loging Page
 <img src="/Screenshots/logingPage.JPG">
 ### User Dashboard
